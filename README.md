@@ -42,18 +42,17 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivakasula11&show_icons=true&theme=tokyonight&hide_border=true" alt="Shiva's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivakasula11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shiva's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivakasula11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Shivakasula11&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivakasula11&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
-
----
+-----
 
 ### 🤝 Connect
 
